@@ -1,7 +1,7 @@
 const faker = require('faker');
 
 let database = { 
-  users: [],
+  user: [],
   posts: [],
 };
 const threshold = 20;
